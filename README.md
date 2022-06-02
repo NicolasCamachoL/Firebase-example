@@ -1,1 +1,8 @@
 # Firebase-example
+
+Group Members:
+
+NICOLAS CAMACHO
+ESTEBAN HERNANDEZ
+SEBASTIAN MUÑOZ
+HERNÁN ALVARADO
